@@ -15,7 +15,7 @@ TypeScript | JavaScript | React | Node.js | Next.js | Prisma | PostgreSQL | Expr
 - **Chatify** – Real-time chat app (MERN)
 
 ## 📫 Connect
-- LinkedIn: https://www.linkedin.com/…](https://www.linkedin.com/in/ankesh-singh-736108291/
+- LinkedIn: https://www.linkedin.com/in/ankesh-singh-736108291/
 - Email: singhankesh446@gmail.com
 - leetcode: https://leetcode.com/u/Ankesh1234/
 
