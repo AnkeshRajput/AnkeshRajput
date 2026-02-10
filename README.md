@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**AnkeshRajput/AnkeshRajput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ankesh 👋
+B.Tech CSE Student at Maharaja Surajmal Institute of technology | Problem solver (250+ on leetcode) | Backend / Full-Stack Developer 
 
-Here are some ideas to get you started:
+## 🔭 Current Focus
+Building real-world web apps with TypeScript, Node, React & APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+TypeScript | JavaScript | React | Node.js | Next.js | Prisma | PostgreSQL | Express
+
+## 📂 Featured Projects
+- **RoomHub** – connects landlords and tenants
+- **Blog-App** – Full-stack blog platform (Next.js, Prisma, PostgreSQL)
+- **Chatify** – Real-time chat app (MERN)
+
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/…](https://www.linkedin.com/in/ankesh-singh-736108291/
+- Email: singhankesh446@gmail.com
+- leetcode: https://leetcode.com/u/Ankesh1234/
+
